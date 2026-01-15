@@ -21,8 +21,8 @@ A construção utilizou materiais densos para garantir durabilidade e evitar vaz
 * ⚪ **Difusão:** Painel frontal em **poliestireno branco**, selecionado para homogeneizar a luz dos LEDs internos.
 
 <p align="center">
-  <img src="./src/public/TrianguloSemPintura.jpeg" width="400px" title="Estrutura MDF" />
-  <img src="./src/public/TrianguloFiacao.jpeg" width="400px" title="Processo de Pintura" />
+  <img src="./src/public/image/TrianguloSemPintura.jpeg" width="400px" title="Estrutura MDF" />
+  <img src="./src/public/image/TrianguloFiacao.jpeg" width="400px" title="Processo de Pintura" />
 </p>
 
 ---
@@ -40,9 +40,9 @@ O sistema elétrico foi desenhado para operar com alta tensão nos LEDs e lógic
 * 📡 **Input:** Sensor **Infravermelho (IR)** para recepção de comandos via controle remoto.
 
 <p align="center">
-  <img src="./src/public/ControladoraFiacao.jpeg" width="400px" title="Módulo de Controle" />
-  <img src="./src/public/ControladoreETriangulos.jpeg" width="400px" title="Controladora Pronta" />
-  <img src="./src/public/TriangulosFiacao.jpeg" width="400px" title="Circuito Interno" />
+  <img src="./src/public/image/ControladoraFiacao.jpeg" width="400px" title="Módulo de Controle" />
+  <img src="./src/public/image/ControladoreETriangulos.jpeg" width="400px" title="Controladora Pronta" />
+  <img src="./src/public/image/TriangulosFiacao.jpeg" width="400px" title="Circuito Interno" />
 </p>
 
 ---
