@@ -41,8 +41,8 @@ O sistema elétrico foi desenhado para operar com alta tensão nos LEDs e lógic
 
 <p align="center">
   <img src="./src/public/img/ControladoraFiacao.jpeg" width="400px" title="Módulo de Controle" />
-  <img src="./src/public/img/ControladoreETriangulos.jpeg" width="400px" title="Controladora Pronta" />
-  <img src="./src/public/img/TriangulosFiacao.jpeg" width="400px" title="Circuito Interno" />
+  <img src="./src/public/img/ControladoraETriangulos.jpeg" width="400px" title="Controladora Pronta" />
+  <img src="./src/public/img/TrianguloaFiacao.jpeg" width="400px" title="Circuito Interno" />
 </p>
 
 ---
