@@ -5,7 +5,7 @@
 Este repositório documenta a construção de painéis de LED modulares inspirados na tecnologia Nanoleaf. O foco do projeto foi a criação de uma estrutura física robusta em MDF e um sistema de interconexão modular funcional.
 
 <p align="center">
-  <img src="./public/img/NanoleafAcesa.jpeg" alt="Projeto em funcionamento" width="800px">
+  <img src="./src/public/img/NanoleafAcesa.jpeg" alt="Projeto em funcionamento" width="800px">
 </p>
 
 ---
@@ -21,8 +21,8 @@ A construção utilizou materiais densos para garantir durabilidade e evitar vaz
 * ⚪ **Difusão:** Painel frontal em **poliestireno branco**, selecionado para homogeneizar a luz dos LEDs internos.
 
 <p align="center">
-  <img src="./public/TrianguloSemPintura.jpeg" width="400px" title="Estrutura MDF" />
-  <img src="./public/TrianguloFiacao.jpeg" width="400px" title="Processo de Pintura" />
+  <img src="./src/public/TrianguloSemPintura.jpeg" width="400px" title="Estrutura MDF" />
+  <img src="./src/public/TrianguloFiacao.jpeg" width="400px" title="Processo de Pintura" />
 </p>
 
 ---
@@ -40,9 +40,9 @@ O sistema elétrico foi desenhado para operar com alta tensão nos LEDs e lógic
 * 📡 **Input:** Sensor **Infravermelho (IR)** para recepção de comandos via controle remoto.
 
 <p align="center">
-  <img src="./public/ControladoraFiacao.jpeg" width="400px" title="Módulo de Controle" />
-  <img src="./public/ControladoreETriangulos.jpeg" width="400px" title="Controladora Pronta" />
-  <img src="./public/TriangulosFiacao.jpeg" width="400px" title="Circuito Interno" />
+  <img src="./src/public/ControladoraFiacao.jpeg" width="400px" title="Módulo de Controle" />
+  <img src="./src/public/ControladoreETriangulos.jpeg" width="400px" title="Controladora Pronta" />
+  <img src="./src/public/TriangulosFiacao.jpeg" width="400px" title="Circuito Interno" />
 </p>
 
 ---
